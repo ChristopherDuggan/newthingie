@@ -1,0 +1,10 @@
+body {
+    background: black;
+    color: white;
+}
+
+@media (min-width: 800px) {
+    body { 
+        background: #333;
+    }
+}
